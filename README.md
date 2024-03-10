@@ -31,7 +31,9 @@ Once the script is running, it will constantly check the color of the specified 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Additional
 
+The coords.py file is a small coordinates detection script. You may use it by pressing 'z' after running it to change the position of the bit that you want to scan
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
